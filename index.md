@@ -24,3 +24,9 @@ There will be several homework assignments done for this course.
 [This](HW3/IE582_Fall21_Homework3.pdf) is the description and questions for the third homework.
 
 [This](HW3/Ozlem-Akekmekci_IE582_HW3.html) is my third homework report.
+
+### Homework 4
+
+[This](HW4/IE582_Fall21_Homework4.pdf) is the description and questions for the fourth homework.
+
+[This](HW4/OzlemAkekmekci_IE582_HW4) is my fourth homework report.
