@@ -30,3 +30,9 @@ There will be several homework assignments done for this course.
 [This](HW4/IE582_Fall21_Homework4.pdf) is the description and questions for the fourth homework.
 
 [This](HW4/OzlemAkekmekci_IE582_HW4) is my fourth homework report.
+
+### Project
+
+[This](Project\IE582_Fall21_Project.pdf) is the description and questions for the project.
+
+[This](Project\Group 8 Project Report.pdf) is our project report. 
