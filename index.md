@@ -33,6 +33,6 @@ There will be several homework assignments done for this course.
 
 ### Project
 
-[This](Project\IE582_Fall21_Project.pdf) is the description and questions for the project.
+[This](Project/IE582_Fall21_Project.pdf) is the description and questions for the project.
 
-[This](Project\Group 8 Project Report.pdf) is our project report. 
+[This](Project/Group 8 Project Report.pdf) is our project report. 
